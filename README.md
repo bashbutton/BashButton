@@ -2,4 +2,4 @@
 
 This is the github repository for BashButton.
 
-Please checkout our site: [bashbutton.io](bashbutton.io)
+Please checkout our site: [http://bashbutton.io](bashbutton.io)
